@@ -4,7 +4,7 @@
 ---
 ## The Hacking *Truc*
 On va encore parler Database aujourd'hui, tu dois maintenant être sur un de nos 5 repos contenant chacun de quoi fabriquer une base de données du futur.
->                     L'espace... On pourrait croire qu'il est infini mais quand on arrive au bout, un gorille commence à nous balancer des tonneaux !  -Fry
+> L'espace... On pourrait croire qu'il est infini mais quand on arrive au bout, un gorille commence à nous balancer des tonneaux !  -Fry
 
 ## The Hacking Clone  ![]()
 
